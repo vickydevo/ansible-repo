@@ -1,0 +1,4 @@
+- hosts: 54.196.189.54
+  tasks:
+  - name: print hello world
+    shell: echo "Hello Tower is Working...!!!!"
